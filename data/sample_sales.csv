@@ -1,0 +1,905 @@
+Order Date,Product,Category,Sales,Profit,Quantity
+2024-01-02,Webcam HD,Electronics,296.7,84.99,5
+2024-01-02,Notebook Pack,Home Office,66.46,28.72,6
+2024-01-05,Desk Lamp,Home Office,219.1,46.42,6
+2024-01-05,Webcam HD,Electronics,527.41,92.36,7
+2024-01-05,Ergonomic Chair,Furniture,1095.08,168.66,4
+2024-01-06,Webcam HD,Electronics,156.27,41.12,3
+2024-01-08,Noise-Cancelling Headset,Electronics,728.9,168.14,4
+2024-01-08,Desk Lamp,Home Office,35.54,11.71,1
+2024-01-10,Notebook Pack,Home Office,60.65,26.56,5
+2024-01-11,Noise-Cancelling Headset,Electronics,348.31,38.52,2
+2024-01-13,Notebook Pack,Home Office,59.13,25.78,5
+2024-01-13,Bookcase,Furniture,856.72,107.16,7
+2024-01-14,Mechanical Keyboard,Accessories,178.04,63.08,2
+2024-01-15,Ergonomic Chair,Furniture,1277.86,279.9,5
+2024-01-17,Bookcase,Furniture,270.1,24.56,2
+2024-01-18,Wireless Mouse,Accessories,56.04,19.46,2
+2024-01-18,Mechanical Keyboard,Accessories,278.56,99.62,3
+2024-01-19,Wireless Mouse,Accessories,241.82,100.27,8
+2024-01-20,Webcam HD,Electronics,123.0,31.72,2
+2024-01-22,Mechanical Keyboard,Accessories,646.59,196.41,7
+2024-01-22,Webcam HD,Electronics,138.4,42.42,2
+2024-01-23,Standing Desk,Furniture,1274.36,275.34,3
+2024-01-23,27in Monitor,Electronics,2301.25,413.49,8
+2024-01-24,Mechanical Keyboard,Accessories,69.47,21.41,1
+2024-01-25,Notebook Pack,Home Office,88.2,39.14,7
+2024-01-25,Notebook Pack,Home Office,69.21,32.99,7
+2024-01-30,Wireless Mouse,Accessories,65.08,24.91,2
+2024-01-30,Bookcase,Furniture,136.2,11.06,1
+2024-01-30,Desk Lamp,Home Office,93.97,30.85,3
+2024-01-31,Bookcase,Furniture,810.52,43.95,6
+2024-02-01,Laptop Stand,Accessories,172.53,61.98,4
+2024-02-05,Noise-Cancelling Headset,Electronics,926.75,187.85,5
+2024-02-05,Whiteboard,Home Office,177.64,23.14,2
+2024-02-06,Bookcase,Furniture,425.32,45.29,3
+2024-02-06,Ergonomic Chair,Furniture,729.79,135.79,3
+2024-02-07,Mechanical Keyboard,Accessories,467.57,147.02,5
+2024-02-09,27in Monitor,Electronics,1783.4,307.12,6
+2024-02-10,Mechanical Keyboard,Accessories,634.57,156.11,7
+2024-02-10,Notebook Pack,Home Office,78.96,36.53,7
+2024-02-11,27in Monitor,Electronics,558.68,89.4,2
+2024-02-12,Bookcase,Furniture,236.8,28.11,2
+2024-02-13,Laptop Stand,Accessories,309.01,109.42,7
+2024-02-13,Standing Desk,Furniture,1099.11,243.23,3
+2024-02-14,Wireless Mouse,Accessories,195.19,75.57,7
+2024-02-14,Laptop Stand,Accessories,84.51,35.08,2
+2024-02-14,Standing Desk,Furniture,2232.13,458.69,6
+2024-02-17,Webcam HD,Electronics,411.61,101.27,6
+2024-02-18,Noise-Cancelling Headset,Electronics,168.29,22.09,1
+2024-02-18,Notebook Pack,Home Office,38.84,18.57,4
+2024-02-18,Standing Desk,Furniture,1589.98,246.25,4
+2024-02-18,Wireless Mouse,Accessories,87.72,35.87,3
+2024-02-20,Whiteboard,Home Office,325.45,44.62,4
+2024-02-20,Notebook Pack,Home Office,66.44,28.06,6
+2024-02-21,Wireless Mouse,Accessories,89.56,34.23,3
+2024-02-21,Notebook Pack,Home Office,88.67,32.7,8
+2024-02-22,Noise-Cancelling Headset,Electronics,330.44,52.02,2
+2024-02-24,Desk Lamp,Home Office,164.56,51.28,6
+2024-02-24,Bookcase,Furniture,1119.23,97.73,8
+2024-02-25,Notebook Pack,Home Office,44.42,19.78,4
+2024-02-26,Ergonomic Chair,Furniture,1246.43,278.73,5
+2024-02-27,Noise-Cancelling Headset,Electronics,767.88,173.64,4
+2024-02-27,Webcam HD,Electronics,71.85,15.41,1
+2024-02-29,Bookcase,Furniture,433.14,13.4,3
+2024-03-05,Wireless Mouse,Accessories,114.68,45.99,4
+2024-03-06,Webcam HD,Electronics,430.44,115.94,7
+2024-03-07,Desk Lamp,Home Office,212.07,74.08,7
+2024-03-11,Standing Desk,Furniture,385.86,96.93,1
+2024-03-11,Ergonomic Chair,Furniture,512.85,76.89,2
+2024-03-17,Bookcase,Furniture,1078.53,118.86,8
+2024-03-19,Wireless Mouse,Accessories,98.59,37.58,4
+2024-03-22,Standing Desk,Furniture,876.77,273.9,2
+2024-03-23,Webcam HD,Electronics,508.32,160.02,8
+2024-03-23,Ergonomic Chair,Furniture,1845.58,355.76,8
+2024-03-23,Desk Lamp,Home Office,230.6,68.56,7
+2024-03-24,Wireless Mouse,Accessories,58.28,21.21,2
+2024-03-24,Noise-Cancelling Headset,Electronics,578.25,118.81,3
+2024-03-26,27in Monitor,Electronics,591.57,98.61,2
+2024-03-26,Ergonomic Chair,Furniture,875.96,126.05,4
+2024-03-29,Ergonomic Chair,Furniture,221.44,37.53,1
+2024-03-29,Bookcase,Furniture,1083.78,42.56,8
+2024-03-30,Noise-Cancelling Headset,Electronics,195.37,41.32,1
+2024-04-01,Notebook Pack,Home Office,63.97,29.68,6
+2024-04-02,Ergonomic Chair,Furniture,1651.42,185.79,6
+2024-04-02,27in Monitor,Electronics,1650.41,254.03,5
+2024-04-02,Webcam HD,Electronics,72.18,12.67,1
+2024-04-04,Noise-Cancelling Headset,Electronics,162.84,37.67,1
+2024-04-04,Desk Lamp,Home Office,235.02,61.16,6
+2024-04-06,Notebook Pack,Home Office,13.09,5.74,1
+2024-04-06,Webcam HD,Electronics,142.58,36.22,2
+2024-04-07,27in Monitor,Electronics,268.52,32.87,1
+2024-04-08,Webcam HD,Electronics,213.15,42.82,4
+2024-04-09,Notebook Pack,Home Office,45.81,22.8,4
+2024-04-10,Bookcase,Furniture,1144.47,-3.86,8
+2024-04-10,27in Monitor,Electronics,323.46,48.57,1
+2024-04-11,Ergonomic Chair,Furniture,957.23,159.15,4
+2024-04-12,Standing Desk,Furniture,1050.34,237.02,3
+2024-04-12,Bookcase,Furniture,798.07,69.28,6
+2024-04-12,Whiteboard,Home Office,277.86,42.03,4
+2024-04-13,Noise-Cancelling Headset,Electronics,1320.22,224.7,8
+2024-04-14,Mechanical Keyboard,Accessories,694.51,229.06,7
+2024-04-15,Ergonomic Chair,Furniture,1953.17,405.84,8
+2024-04-15,Laptop Stand,Accessories,170.87,63.27,4
+2024-04-16,Noise-Cancelling Headset,Electronics,1489.62,336.51,8
+2024-04-17,27in Monitor,Electronics,304.07,37.78,1
+2024-04-17,Mechanical Keyboard,Accessories,407.88,157.33,4
+2024-04-17,Notebook Pack,Home Office,38.09,16.94,4
+2024-04-18,27in Monitor,Electronics,1021.87,149.78,4
+2024-04-18,Ergonomic Chair,Furniture,1802.74,370.09,8
+2024-04-20,Whiteboard,Home Office,383.97,46.01,5
+2024-04-20,Noise-Cancelling Headset,Electronics,861.81,212.47,5
+2024-04-21,Webcam HD,Electronics,524.18,139.29,7
+2024-04-22,Bookcase,Furniture,137.24,8.05,1
+2024-04-23,Bookcase,Furniture,1165.65,50.19,8
+2024-04-24,Wireless Mouse,Accessories,118.03,47.84,4
+2024-04-24,Noise-Cancelling Headset,Electronics,261.79,63.35,2
+2024-04-25,Bookcase,Furniture,230.65,22.93,2
+2024-04-25,Desk Lamp,Home Office,111.57,34.49,3
+2024-04-25,Mechanical Keyboard,Accessories,522.79,117.21,6
+2024-04-27,Wireless Mouse,Accessories,83.91,32.04,3
+2024-04-27,Bookcase,Furniture,707.74,75.06,5
+2024-04-28,Notebook Pack,Home Office,10.13,4.87,1
+2024-04-29,Noise-Cancelling Headset,Electronics,481.04,103.68,3
+2024-04-29,Ergonomic Chair,Furniture,250.18,47.62,1
+2024-04-30,Notebook Pack,Home Office,33.8,15.12,3
+2024-05-01,Desk Lamp,Home Office,236.9,69.47,6
+2024-05-02,Ergonomic Chair,Furniture,1957.32,365.7,8
+2024-05-05,Whiteboard,Home Office,171.85,12.71,2
+2024-05-06,Laptop Stand,Accessories,213.96,75.56,5
+2024-05-06,Desk Lamp,Home Office,230.88,78.83,8
+2024-05-06,Ergonomic Chair,Furniture,1735.63,428.88,7
+2024-05-07,Mechanical Keyboard,Accessories,665.33,178.07,7
+2024-05-08,Standing Desk,Furniture,2547.74,706.84,6
+2024-05-09,Wireless Mouse,Accessories,193.21,76.44,7
+2024-05-09,Notebook Pack,Home Office,57.16,28.32,5
+2024-05-11,Mechanical Keyboard,Accessories,530.5,150.21,6
+2024-05-12,27in Monitor,Electronics,1017.53,114.26,4
+2024-05-12,Bookcase,Furniture,594.75,35.05,4
+2024-05-12,Noise-Cancelling Headset,Electronics,1320.42,280.53,8
+2024-05-14,Standing Desk,Furniture,3623.75,,8
+2024-05-14,Notebook Pack,Home Office,72.61,26.55,6
+2024-05-14,Bookcase,Furniture,317.1,23.05,3
+2024-05-14,Noise-Cancelling Headset,Electronics,1361.47,247.6,8
+2024-05-14,27in Monitor,Electronics,1888.31,277.97,8
+2024-05-15,Ergonomic Chair,Furniture,1231.01,205.43,5
+2024-05-17,Bookcase,Furniture,1059.32,132.74,8
+2024-05-17,27in Monitor,Electronics,1445.5,302.3,5
+2024-05-17,27in Monitor,Electronics,642.69,116.17,2
+2024-05-17,Bookcase,Furniture,1008.84,110.74,7
+2024-05-18,27in Monitor,Electronics,541.99,66.96,2
+2024-05-19,27in Monitor,Electronics,1608.11,296.57,6
+2024-05-19,Notebook Pack,Home Office,36.6,16.24,3
+2024-05-21,Ergonomic Chair,Furniture,1619.21,336.63,6
+2024-05-22,Webcam HD,Electronics,372.18,64.79,7
+2024-05-22,Notebook Pack,Home Office,24.04,12.74,2
+2024-05-23,Noise-Cancelling Headset,Electronics,687.17,164.45,4
+2024-05-24,Webcam HD,Electronics,319.11,78.63,6
+2024-05-25,Ergonomic Chair,Furniture,229.25,50.09,1
+2024-05-26,Noise-Cancelling Headset,Electronics,1227.38,214.31,8
+2024-05-26,Webcam HD,Electronics,511.27,137.53,8
+2024-05-26,Webcam HD,Electronics,291.05,58.12,4
+2024-05-27,Desk Lamp,Home Office,41.36,16.64,1
+2024-05-28,Noise-Cancelling Headset,Electronics,945.62,170.7,5
+2024-05-28,Ergonomic Chair,Furniture,1278.43,227.82,5
+2024-05-30,27in Monitor,Electronics,2010.68,390.47,7
+2024-06-02,Mechanical Keyboard,Accessories,268.99,74.85,3
+2024-06-04,Webcam HD,Electronics,335.28,95.87,5
+2024-06-04,Webcam HD,Electronics,122.01,38.62,2
+2024-06-04,Standing Desk,Furniture,2086.7,398.78,5
+2024-06-05,Notebook Pack,Home Office,67.5,28.19,6
+2024-06-06,Notebook Pack,Home Office,90.78,40.97,8
+2024-06-06,27in Monitor,Electronics,2050.32,281.99,7
+2024-06-06,Laptop Stand,Accessories,245.89,98.93,7
+2024-06-06,Laptop Stand,Accessories,77.5,23.78,2
+2024-06-07,Standing Desk,Furniture,829.3,174.62,2
+2024-06-11,Webcam HD,Electronics,545.44,128.78,8
+2024-06-11,Wireless Mouse,Accessories,241.78,98.9,8
+2024-06-13,Notebook Pack,Home Office,9.45,4.52,1
+2024-06-13,Wireless Mouse,Accessories,32.59,12.68,1
+2024-06-13,27in Monitor,Electronics,306.94,32.24,1
+2024-06-14,Notebook Pack,Home Office,31.81,15.42,3
+2024-06-16,Wireless Mouse,Accessories,177.53,67.94,6
+2024-06-17,Laptop Stand,Accessories,122.23,38.75,3
+2024-06-17,Desk Lamp,Home Office,106.02,31.55,3
+2024-06-18,Whiteboard,Home Office,419.05,23.68,5
+2024-06-20,Noise-Cancelling Headset,Electronics,934.14,157.67,6
+2024-06-20,Ergonomic Chair,Furniture,1826.81,232.27,7
+2024-06-22,27in Monitor,Electronics,1464.99,302.45,5
+2024-06-23,Noise-Cancelling Headset,Electronics,1319.02,319.31,7
+2024-06-24,Notebook Pack,Home Office,53.1,26.28,6
+2024-06-26,Webcam HD,Electronics,223.29,45.95,3
+2024-06-26,Mechanical Keyboard,Accessories,519.91,151.59,7
+2024-06-27,Ergonomic Chair,Furniture,850.55,192.75,3
+2024-06-29,Ergonomic Chair,Furniture,1412.27,251.8,5
+2024-06-30,Wireless Mouse,Accessories,76.6,22.72,3
+2024-07-03,Whiteboard,Home Office,640.29,72.92,8
+2024-07-04,Laptop Stand,Accessories,234.91,75.51,5
+2024-07-05,Notebook Pack,Home Office,11.72,5.74,1
+2024-07-06,Noise-Cancelling Headset,Electronics,392.22,106.6,2
+2024-07-06,Desk Lamp,Home Office,63.58,22.82,2
+2024-07-06,27in Monitor,Electronics,226.7,38.14,1
+2024-07-08,Webcam HD,Electronics,202.57,48.91,3
+2024-07-08,Laptop Stand,Accessories,75.18,22.67,2
+2024-07-08,Laptop Stand,Accessories,122.6,40.6,3
+2024-07-09,27in Monitor,Electronics,1695.97,260.26,5
+2024-07-09,Notebook Pack,Home Office,34.39,16.01,3
+2024-07-10,27in Monitor,Electronics,974.91,120.17,3
+2024-07-13,Wireless Mouse,Accessories,27.92,11.28,1
+2024-07-14,Laptop Stand,Accessories,275.74,116.7,6
+2024-07-17,27in Monitor,Electronics,988.68,172.31,3
+2024-07-19,Ergonomic Chair,Furniture,1296.09,221.41,6
+2024-07-21,Ergonomic Chair,Furniture,470.66,92.16,2
+2024-07-22,Ergonomic Chair,Furniture,1188.84,270.4,5
+2024-07-29,Noise-Cancelling Headset,Electronics,1115.25,215.49,6
+2024-07-30,Wireless Mouse,Accessories,226.4,88.65,8
+2024-07-31,Laptop Stand,Accessories,84.94,23.44,2
+2024-08-01,Laptop Stand,Accessories,87.6,29.32,2
+2024-08-02,27in Monitor,Electronics,290.77,9.24,1
+2024-08-03,Standing Desk,Furniture,2372.52,539.17,6
+2024-08-04,Notebook Pack,,12.17,6.01,1
+2024-08-04,Laptop Stand,Accessories,88.05,33.41,2
+2024-08-04,Notebook Pack,Home Office,35.61,14.93,3
+2024-08-05,Ergonomic Chair,Furniture,1116.33,205.87,5
+2024-08-06,Desk Lamp,Home Office,243.97,85.7,6
+2024-08-06,Noise-Cancelling Headset,Electronics,671.0,146.85,4
+2024-08-07,Ergonomic Chair,Furniture,953.66,160.05,4
+2024-08-07,27in Monitor,Electronics,2321.81,458.82,7
+2024-08-08,Notebook Pack,Home Office,12.7,6.67,1
+2024-08-09,27in Monitor,Electronics,872.37,178.93,3
+2024-08-11,Bookcase,Furniture,915.48,59.86,6
+2024-08-11,27in Monitor,Electronics,2220.17,405.79,8
+2024-08-11,Wireless Mouse,Accessories,96.47,39.43,3
+2024-08-12,Bookcase,Furniture,497.7,54.76,4
+2024-08-12,Notebook Pack,Home Office,12.98,5.75,1
+2024-08-13,Mechanical Keyboard,Accessories,586.89,128.07,6
+2024-08-13,Standing Desk,Furniture,2300.61,456.25,6
+2024-08-15,27in Monitor,Electronics,2279.07,241.53,7
+2024-08-17,Standing Desk,Furniture,742.82,146.68,2
+2024-08-18,Webcam HD,Electronics,284.02,67.4,4
+2024-08-21,Desk Lamp,Home Office,244.62,81.34,6
+2024-08-21,Noise-Cancelling Headset,Electronics,372.65,74.63,2
+2024-08-22,Mechanical Keyboard,Accessories,534.67,167.57,6
+2024-08-22,Mechanical Keyboard,Accessories,103.62,32.31,1
+2024-08-22,Bookcase,Furniture,823.9,60.63,6
+2024-08-24,Notebook Pack,Home Office,66.39,26.01,6
+2024-08-27,27in Monitor,Electronics,576.47,52.7,2
+2024-08-28,Noise-Cancelling Headset,Electronics,861.0,198.35,5
+2024-08-29,Wireless Mouse,Accessories,183.83,68.12,6
+2024-09-01,Bookcase,Furniture,356.39,13.42,3
+2024-09-02,Whiteboard,Home Office,182.49,28.9,2
+2024-09-02,27in Monitor,Electronics,305.27,51.61,1
+2024-09-05,Noise-Cancelling Headset,Electronics,1365.65,295.87,7
+2024-09-05,Desk Lamp,Home Office,37.96,13.42,1
+2024-09-07,Ergonomic Chair,Furniture,913.3,212.8,4
+2024-09-07,Ergonomic Chair,Furniture,245.98,37.15,1
+2024-09-09,Noise-Cancelling Headset,Electronics,339.95,74.7,2
+2024-09-11,Laptop Stand,Accessories,210.67,76.81,5
+2024-09-11,Desk Lamp,Home Office,256.9,80.83,8
+2024-09-11,Webcam HD,Electronics,70.87,20.61,1
+2024-09-14,Mechanical Keyboard,Accessories,451.32,149.75,5
+2024-09-14,Desk Lamp,Home Office,271.1,100.43,7
+2024-09-14,Whiteboard,Home Office,412.66,90.68,5
+2024-09-16,Ergonomic Chair,Furniture,261.42,22.25,1
+2024-09-16,Noise-Cancelling Headset,Electronics,708.45,199.91,4
+2024-09-17,27in Monitor,Electronics,597.23,74.26,2
+2024-09-17,Bookcase,Furniture,661.61,63.11,5
+2024-09-18,Noise-Cancelling Headset,Electronics,512.55,89.4,3
+2024-09-20,Noise-Cancelling Headset,Electronics,1020.42,223.0,6
+2024-09-20,Whiteboard,Home Office,281.11,25.71,4
+2024-09-20,Wireless Mouse,Accessories,131.99,43.3,4
+2024-09-22,Noise-Cancelling Headset,Electronics,679.03,87.8,4
+2024-09-23,Bookcase,Furniture,249.4,16.62,2
+2024-09-24,Webcam HD,Electronics,61.59,15.23,1
+2024-09-25,Notebook Pack,Home Office,80.07,35.5,7
+2024-09-25,Desk Lamp,Home Office,72.78,22.18,2
+2024-09-26,Bookcase,Furniture,810.9,53.37,7
+2024-09-27,Desk Lamp,Home Office,248.38,73.49,8
+2024-09-27,Ergonomic Chair,Furniture,260.11,43.86,1
+2024-09-29,Wireless Mouse,Accessories,112.46,34.38,4
+2024-09-29,Ergonomic Chair,Furniture,1093.22,141.85,4
+2024-10-01,27in Monitor,Electronics,1883.11,418.18,6
+2024-10-01,Ergonomic Chair,Furniture,1397.64,267.34,5
+2024-10-01,Wireless Mouse,Accessories,235.74,74.41,8
+2024-10-01,27in Monitor,Electronics,484.23,72.74,2
+2024-10-01,Webcam HD,Electronics,351.01,97.13,5
+2024-10-03,Laptop Stand,Accessories,137.32,47.22,3
+2024-10-03,Desk Lamp,Home Office,254.55,89.25,8
+2024-10-04,Noise-Cancelling Headset,Electronics,157.08,34.27,1
+2024-10-05,Wireless Mouse,Accessories,184.66,74.39,7
+2024-10-06,Webcam HD,Electronics,440.82,96.23,6
+2024-10-08,Desk Lamp,Home Office,260.43,66.45,7
+2024-10-08,Laptop Stand,Accessories,45.43,16.95,1
+2024-10-09,Wireless Mouse,Accessories,162.43,57.41,6
+2024-10-10,Notebook Pack,Home Office,61.67,27.66,5
+2024-10-10,Wireless Mouse,Accessories,58.49,21.18,2
+2024-10-11,Whiteboard,Home Office,350.12,57.36,4
+2024-10-12,Whiteboard,Home Office,239.6,23.51,3
+2024-10-12,Wireless Mouse,Accessories,147.45,61.75,5
+2024-10-13,Webcam HD,Electronics,61.59,8.62,1
+2024-10-13,Standing Desk,Furniture,698.01,164.49,2
+2024-10-14,Wireless Mouse,Accessories,117.92,41.39,4
+2024-10-14,Desk Lamp,Home Office,178.24,64.34,5
+2024-10-14,Ergonomic Chair,Furniture,756.39,157.53,3
+2024-10-14,Laptop Stand,Accessories,289.03,84.72,7
+2024-10-14,Mechanical Keyboard,Accessories,548.87,176.01,6
+2024-10-15,Ergonomic Chair,Furniture,1761.64,243.26,7
+2024-10-15,Laptop Stand,Accessories,283.05,116.18,6
+2024-10-18,Bookcase,Furniture,1053.51,114.86,8
+2024-10-18,Laptop Stand,Accessories,352.15,139.73,8
+2024-10-20,Whiteboard,Home Office,385.78,59.61,5
+2024-10-21,27in Monitor,Electronics,1765.06,242.31,6
+2024-10-22,Wireless Mouse,Accessories,24.35,9.74,1
+2024-10-23,Ergonomic Chair,Furniture,1737.7,316.71,7
+2024-10-24,Laptop Stand,Accessories,284.85,75.44,6
+2024-10-25,Bookcase,Furniture,258.71,8.12,2
+2024-10-26,Notebook Pack,Home Office,20.51,7.91,2
+2024-10-27,Wireless Mouse,Accessories,196.75,83.3,7
+2024-10-27,Webcam HD,Electronics,487.08,139.3,7
+2024-10-28,Ergonomic Chair,Furniture,782.75,109.72,4
+2024-10-31,Bookcase,Furniture,369.38,22.88,3
+2024-11-01,Noise-Cancelling Headset,Electronics,334.34,76.06,2
+2024-11-01,Wireless Mouse,Accessories,188.73,74.18,6
+2024-11-02,Whiteboard,Home Office,709.23,120.23,8
+2024-11-02,27in Monitor,Electronics,1275.93,245.71,4
+2024-11-03,Desk Lamp,Home Office,303.04,94.78,8
+2024-11-05,Mechanical Keyboard,Accessories,318.98,88.54,4
+2024-11-05,Webcam HD,Electronics,255.58,52.12,4
+2024-11-05,Mechanical Keyboard,Accessories,456.99,164.16,6
+2024-11-06,Desk Lamp,Home Office,34.67,9.61,1
+2024-11-13,Bookcase,Furniture,972.71,115.47,7
+2024-11-14,Laptop Stand,Accessories,141.96,40.6,3
+2024-11-14,Whiteboard,Home Office,298.09,39.6,4
+2024-11-16,Standing Desk,Furniture,384.74,86.6,1
+2024-11-16,Standing Desk,Furniture,634.7,126.0,2
+2024-11-16,27in Monitor,Electronics,232.35,43.91,1
+2024-11-17,Wireless Mouse,Accessories,125.2,43.75,4
+2024-11-17,Noise-Cancelling Headset,Electronics,1202.75,263.9,7
+2024-11-18,Noise-Cancelling Headset,Electronics,745.17,157.81,4
+2024-11-19,Notebook Pack,Home Office,10.13,4.49,1
+2024-11-20,Whiteboard,Home Office,91.74,8.83,1
+2024-11-20,Noise-Cancelling Headset,Electronics,916.16,206.42,5
+2024-11-21,Wireless Mouse,Accessories,115.19,38.41,4
+2024-11-21,Notebook Pack,Home Office,96.55,39.12,8
+2024-11-21,Mechanical Keyboard,Accessories,397.8,97.86,5
+2024-11-21,Notebook Pack,Home Office,65.45,32.01,5
+2024-11-23,27in Monitor,Electronics,897.8,175.62,3
+2024-11-23,Ergonomic Chair,Furniture,1403.25,193.73,6
+2024-11-23,Bookcase,Furniture,126.48,7.88,1
+2024-11-24,Wireless Mouse,Accessories,52.78,20.87,2
+2024-11-25,Notebook Pack,Home Office,43.57,17.47,4
+2024-11-26,Bookcase,Furniture,509.56,10.04,4
+2024-11-27,Standing Desk,Furniture,2868.38,572.83,8
+2024-11-28,Mechanical Keyboard,Accessories,73.32,18.29,1
+2024-11-28,Whiteboard,Home Office,544.28,48.12,6
+2024-11-29,Notebook Pack,Home Office,75.26,37.19,6
+2024-11-30,Bookcase,Furniture,432.67,35.33,3
+2024-12-02,Ergonomic Chair,Furniture,1114.81,144.07,4
+2024-12-02,Mechanical Keyboard,Accessories,417.82,148.12,4
+2024-12-03,Standing Desk,Furniture,1296.29,230.04,3
+2024-12-03,Laptop Stand,Accessories,84.72,26.74,2
+2024-12-03,Wireless Mouse,Accessories,140.41,53.78,5
+2024-12-04,Whiteboard,Home Office,697.53,112.34,8
+2024-12-04,Desk Lamp,Home Office,213.04,66.93,6
+2024-12-04,Standing Desk,Furniture,1395.49,262.88,4
+2024-12-05,Wireless Mouse,Accessories,85.05,36.37,3
+2024-12-05,Noise-Cancelling Headset,Electronics,145.81,33.3,1
+2024-12-06,Wireless Mouse,Accessories,180.26,73.97,6
+2024-12-07,Wireless Mouse,Accessories,28.39,10.5,1
+2024-12-09,Standing Desk,Furniture,1599.92,380.77,4
+2024-12-10,27in Monitor,Electronics,460.68,70.56,2
+2024-12-11,Notebook Pack,Home Office,82.0,37.11,7
+2024-12-11,Standing Desk,Furniture,2345.02,495.84,6
+2024-12-12,Whiteboard,Home Office,237.35,41.0,3
+2024-12-12,Noise-Cancelling Headset,Electronics,881.13,145.85,5
+2024-12-12,Laptop Stand,Accessories,360.87,107.95,8
+2024-12-13,Noise-Cancelling Headset,Electronics,1154.33,215.8,7
+2024-12-14,Noise-Cancelling Headset,Electronics,1439.77,352.43,8
+2024-12-14,Notebook Pack,Home Office,46.39,22.65,4
+2024-12-15,Notebook Pack,Home Office,60.78,28.97,5
+2024-12-16,27in Monitor,Electronics,325.09,20.54,1
+2024-12-16,Mechanical Keyboard,Accessories,521.16,144.19,6
+2024-12-16,Ergonomic Chair,Furniture,726.56,138.94,3
+2024-12-17,Wireless Mouse,Accessories,93.65,33.74,3
+2024-12-17,Laptop Stand,Accessories,207.76,63.69,5
+2024-12-18,Webcam HD,Electronics,226.3,51.32,3
+2024-12-18,Laptop Stand,Accessories,204.28,58.57,5
+2024-12-18,Desk Lamp,Home Office,272.09,103.05,7
+2024-12-19,Laptop Stand,Accessories,156.43,57.95,4
+2024-12-22,Noise-Cancelling Headset,Electronics,180.56,18.52,1
+2024-12-23,Ergonomic Chair,Furniture,454.95,69.33,2
+2024-12-25,Ergonomic Chair,Furniture,814.81,149.84,3
+2024-12-25,Standing Desk,Furniture,2946.46,585.34,8
+2024-12-25,Mechanical Keyboard,Accessories,465.8,127.97,6
+2024-12-26,Standing Desk,Furniture,1294.16,283.12,3
+2024-12-26,Notebook Pack,Home Office,46.32,20.12,4
+2024-12-27,Laptop Stand,Accessories,181.81,55.84,4
+2024-12-28,Noise-Cancelling Headset,Electronics,502.51,110.1,3
+2024-12-28,Standing Desk,Furniture,444.99,123.62,1
+2024-12-29,Notebook Pack,Home Office,19.99,6.7,2
+2024-12-29,Standing Desk,Furniture,1809.89,482.51,5
+2024-12-29,Standing Desk,Furniture,353.13,69.62,1
+2024-12-30,Standing Desk,Furniture,385.92,76.44,1
+2024-12-31,Noise-Cancelling Headset,Electronics,169.07,23.45,1
+2025-01-03,Notebook Pack,Home Office,82.53,32.46,8
+2025-01-05,Noise-Cancelling Headset,Electronics,912.73,201.94,5
+2025-01-05,Ergonomic Chair,Furniture,1622.8,326.99,6
+2025-01-06,Notebook Pack,Home Office,8.83,3.49,1
+2025-01-09,Standing Desk,Furniture,2655.7,387.5,6
+2025-01-09,27in Monitor,Electronics,2285.21,445.1,8
+2025-01-09,Laptop Stand,Accessories,222.28,75.74,6
+2025-01-10,Ergonomic Chair,Furniture,401.6,103.99,2
+2025-01-10,Standing Desk,Furniture,2516.72,512.04,6
+2025-01-11,Webcam HD,Electronics,470.77,96.55,8
+2025-01-13,Notebook Pack,Home Office,86.82,39.25,7
+2025-01-13,Noise-Cancelling Headset,Electronics,186.91,37.7,1
+2025-01-13,Desk Lamp,Home Office,111.15,29.65,4
+2025-01-14,Mechanical Keyboard,Accessories,206.99,48.36,3
+2025-01-15,Laptop Stand,Accessories,121.6,42.58,3
+2025-01-16,Ergonomic Chair,Furniture,1997.5,352.02,7
+2025-01-18,Wireless Mouse,Accessories,180.3,69.17,6
+2025-01-18,Notebook Pack,Home Office,84.35,43.4,7
+2025-01-19,Ergonomic Chair,Furniture,211.5,30.77,1
+2025-01-20,Webcam HD,Electronics,64.65,15.93,1
+2025-01-20,Bookcase,Furniture,299.15,33.48,2
+2025-01-20,Notebook Pack,Home Office,49.47,23.29,5
+2025-01-21,27in Monitor,Electronics,1186.62,166.97,4
+2025-01-21,Notebook Pack,Home Office,64.12,26.84,6
+2025-01-21,Noise-Cancelling Headset,Electronics,716.91,121.98,5
+2025-01-22,Standing Desk,Furniture,2257.55,585.71,5
+2025-01-24,Whiteboard,Home Office,239.16,32.31,3
+2025-01-25,Wireless Mouse,Accessories,168.05,54.25,6
+2025-01-25,Webcam HD,Electronics,132.07,33.97,2
+2025-01-26,Laptop Stand,Accessories,290.99,104.31,7
+2025-01-26,Mechanical Keyboard,Accessories,87.3,34.63,1
+2025-01-27,27in Monitor,Electronics,986.15,149.47,3
+2025-01-28,Notebook Pack,Home Office,22.94,7.94,2
+2025-01-29,Noise-Cancelling Headset,Electronics,1239.48,358.68,7
+2025-01-29,Ergonomic Chair,Furniture,235.47,47.53,1
+2025-01-30,Standing Desk,Furniture,320.18,66.06,1
+2025-01-30,Wireless Mouse,Accessories,44.88,17.66,2
+2025-01-31,Desk Lamp,Home Office,111.4,38.58,4
+2025-01-31,Standing Desk,Furniture,1193.2,380.48,3
+2025-02-03,Standing Desk,Furniture,726.03,156.56,2
+2025-02-05,Desk Lamp,Home Office,208.24,67.76,5
+2025-02-05,Wireless Mouse,Accessories,172.18,69.78,7
+2025-02-06,Standing Desk,Furniture,1076.04,251.91,3
+2025-02-06,Whiteboard,Home Office,79.92,4.64,1
+2025-02-06,Bookcase,Furniture,106.96,10.02,1
+2025-02-08,Ergonomic Chair,Furniture,1406.16,216.59,6
+2025-02-08,Laptop Stand,Accessories,83.05,27.89,2
+2025-02-09,Wireless Mouse,Accessories,187.13,77.28,8
+2025-02-09,Webcam HD,Electronics,506.27,98.7,8
+2025-02-10,27in Monitor,Electronics,296.64,65.52,1
+2025-02-11,27in Monitor,Electronics,985.63,96.23,3
+2025-02-13,Noise-Cancelling Headset,Electronics,337.58,92.18,2
+2025-02-14,Noise-Cancelling Headset,Electronics,1320.76,243.85,8
+2025-02-14,Whiteboard,Home Office,166.71,21.6,2
+2025-02-16,Wireless Mouse,Accessories,95.67,42.02,3
+2025-02-17,Mechanical Keyboard,Accessories,428.29,123.92,5
+2025-02-17,Mechanical Keyboard,Accessories,620.58,214.68,7
+2025-02-17,Webcam HD,Electronics,65.67,19.75,1
+2025-02-18,Desk Lamp,Home Office,82.34,30.08,2
+2025-02-19,Laptop Stand,Accessories,116.87,42.23,3
+2025-02-20,Notebook Pack,Home Office,96.06,40.98,8
+2025-02-20,Standing Desk,Furniture,1907.0,383.38,5
+2025-02-23,Noise-Cancelling Headset,Electronics,528.37,96.64,3
+2025-02-23,Bookcase,Furniture,662.37,,5
+2025-02-24,Laptop Stand,Accessories,291.0,95.67,7
+2025-02-24,Bookcase,Furniture,850.41,33.35,6
+2025-02-24,Noise-Cancelling Headset,Electronics,328.44,57.24,2
+2025-02-25,Ergonomic Chair,Furniture,1066.38,95.53,4
+2025-02-26,Bookcase,Furniture,1036.85,86.25,7
+2025-02-26,Ergonomic Chair,Furniture,1569.61,415.74,8
+2025-02-28,Bookcase,Furniture,684.18,90.64,5
+2025-03-01,Ergonomic Chair,Furniture,1889.1,353.43,8
+2025-03-01,Noise-Cancelling Headset,Electronics,445.9,108.81,3
+2025-03-01,Standing Desk,Furniture,696.8,174.11,2
+2025-03-02,Wireless Mouse,Accessories,121.31,47.84,4
+2025-03-03,Notebook Pack,Home Office,77.06,32.59,6
+2025-03-03,Webcam HD,Electronics,168.74,39.11,3
+2025-03-04,Bookcase,Furniture,565.48,50.31,4
+2025-03-08,Noise-Cancelling Headset,Electronics,1283.12,339.03,8
+2025-03-09,27in Monitor,Electronics,903.0,98.22,3
+2025-03-09,Webcam HD,Electronics,173.78,57.44,3
+2025-03-10,Notebook Pack,Home Office,37.9,17.2,4
+2025-03-12,Notebook Pack,Home Office,36.73,16.66,3
+2025-03-12,Bookcase,Furniture,1094.28,-6.83,8
+2025-03-13,Notebook Pack,Home Office,95.68,40.59,8
+2025-03-15,Wireless Mouse,Accessories,208.08,87.36,7
+2025-03-16,Bookcase,Furniture,403.56,27.24,4
+2025-03-17,27in Monitor,Electronics,592.08,37.7,2
+2025-03-22,Mechanical Keyboard,Accessories,72.77,24.01,1
+2025-03-25,Whiteboard,Home Office,80.55,10.02,1
+2025-03-25,27in Monitor,Electronics,2298.26,522.66,7
+2025-03-25,Webcam HD,Electronics,65.45,13.68,1
+2025-03-25,Laptop Stand,Accessories,245.7,96.88,6
+2025-03-25,Noise-Cancelling Headset,Electronics,1227.15,281.14,8
+2025-03-26,Notebook Pack,Home Office,63.66,27.82,7
+2025-03-26,Webcam HD,Electronics,143.85,37.63,2
+2025-03-27,Notebook Pack,Home Office,23.27,9.31,2
+2025-03-27,Desk Lamp,Home Office,199.74,74.02,6
+2025-03-27,Mechanical Keyboard,Accessories,441.78,155.59,5
+2025-03-28,Mechanical Keyboard,Accessories,172.95,55.48,2
+2025-03-30,Mechanical Keyboard,Accessories,540.39,165.36,6
+2025-03-31,Ergonomic Chair,Furniture,2111.54,551.73,8
+2025-04-01,Noise-Cancelling Headset,Electronics,1210.6,197.28,8
+2025-04-03,Mechanical Keyboard,Accessories,162.76,42.61,2
+2025-04-03,Standing Desk,Furniture,1597.53,362.51,4
+2025-04-03,Notebook Pack,Home Office,11.69,5.07,1
+2025-04-04,27in Monitor,Electronics,647.74,111.42,2
+2025-04-06,Laptop Stand,Accessories,301.36,109.57,7
+2025-04-06,Webcam HD,Electronics,120.66,39.1,2
+2025-04-06,Noise-Cancelling Headset,Electronics,279.38,53.0,2
+2025-04-07,Noise-Cancelling Headset,Electronics,1129.63,139.1,6
+2025-04-08,27in Monitor,Electronics,1839.55,343.36,6
+2025-04-08,Bookcase,Furniture,861.33,61.49,6
+2025-04-08,Desk Lamp,Home Office,198.69,58.15,6
+2025-04-08,Notebook Pack,Home Office,75.45,30.02,6
+2025-04-10,Mechanical Keyboard,Accessories,343.25,81.26,4
+2025-04-12,Whiteboard,Home Office,253.82,42.72,4
+2025-04-13,Bookcase,Furniture,1202.02,48.02,8
+2025-04-15,Laptop Stand,Accessories,195.44,71.34,6
+2025-04-15,Laptop Stand,Accessories,44.97,15.71,1
+2025-04-15,Mechanical Keyboard,Accessories,587.1,157.36,7
+2025-04-17,Notebook Pack,Home Office,78.3,37.09,8
+2025-04-17,Noise-Cancelling Headset,Electronics,657.44,141.0,4
+2025-04-19,Desk Lamp,Home Office,192.45,42.49,5
+2025-04-19,Notebook Pack,Home Office,73.6,36.24,6
+2025-04-19,Ergonomic Chair,Furniture,1005.0,190.12,4
+2025-04-20,Desk Lamp,Home Office,221.31,60.33,6
+2025-04-20,Mechanical Keyboard,Accessories,91.33,16.95,1
+2025-04-21,Laptop Stand,Accessories,147.98,55.36,4
+2025-04-21,Notebook Pack,Home Office,19.45,8.2,2
+2025-04-21,Laptop Stand,Accessories,185.37,85.19,4
+2025-04-22,Wireless Mouse,Accessories,181.15,75.85,7
+2025-04-22,27in Monitor,Electronics,1542.94,319.41,5
+2025-04-22,Standing Desk,Furniture,1782.89,458.34,5
+2025-04-24,Webcam HD,Electronics,365.09,109.11,6
+2025-04-24,Bookcase,Furniture,427.36,45.77,3
+2025-04-24,Noise-Cancelling Headset,Electronics,1281.71,176.17,7
+2025-04-24,27in Monitor,Electronics,532.5,79.21,2
+2025-04-25,27in Monitor,Electronics,1171.86,114.14,5
+2025-04-25,Mechanical Keyboard,Accessories,488.03,151.19,6
+2025-04-26,Notebook Pack,Home Office,55.67,26.4,6
+2025-04-27,Standing Desk,Furniture,2840.39,667.19,7
+2025-04-28,Laptop Stand,Accessories,298.91,104.46,7
+2025-04-28,Notebook Pack,Home Office,58.28,26.43,5
+2025-04-29,Bookcase,Furniture,1145.27,117.84,8
+2025-04-29,27in Monitor,Electronics,1548.54,217.16,5
+2025-04-30,Webcam HD,Electronics,146.26,38.87,2
+2025-05-01,Bookcase,Furniture,440.4,27.28,3
+2025-05-01,Ergonomic Chair,Furniture,1321.12,163.1,5
+2025-05-03,Ergonomic Chair,Furniture,726.53,112.46,3
+2025-05-03,Webcam HD,Electronics,284.54,91.81,5
+2025-05-05,27in Monitor,Electronics,2581.61,339.04,8
+2025-05-06,Bookcase,Furniture,979.42,68.96,7
+2025-05-06,Mechanical Keyboard,Accessories,633.15,123.79,8
+2025-05-07,Mechanical Keyboard,Accessories,524.45,167.18,6
+2025-05-09,Laptop Stand,Accessories,119.32,52.29,3
+2025-05-10,Notebook Pack,Home Office,92.9,41.35,8
+2025-05-10,Webcam HD,Electronics,393.3,83.16,6
+2025-05-10,Wireless Mouse,Accessories,217.42,89.73,8
+2025-05-12,Whiteboard,Home Office,425.54,79.03,6
+2025-05-13,27in Monitor,Electronics,1428.46,146.37,6
+2025-05-13,Notebook Pack,Home Office,12.14,5.6,1
+2025-05-14,Wireless Mouse,Accessories,83.83,32.45,3
+2025-05-14,Desk Lamp,Home Office,148.51,40.25,5
+2025-05-17,Mechanical Keyboard,Accessories,201.88,45.86,2
+2025-05-18,Bookcase,Furniture,978.58,73.77,7
+2025-05-20,Standing Desk,Furniture,2142.65,307.84,5
+2025-05-20,Ergonomic Chair,Furniture,1970.45,226.84,7
+2025-05-20,Ergonomic Chair,Furniture,2008.31,384.57,8
+2025-05-22,Desk Lamp,Home Office,288.84,71.54,7
+2025-05-23,Bookcase,Furniture,485.98,20.3,4
+2025-05-23,27in Monitor,Electronics,1059.24,85.26,4
+2025-05-23,Bookcase,Furniture,134.5,5.21,1
+2025-05-23,Ergonomic Chair,Furniture,1204.46,243.14,5
+2025-05-23,Desk Lamp,Home Office,238.14,82.26,6
+2025-05-24,Mechanical Keyboard,Accessories,270.8,91.32,3
+2025-05-25,Standing Desk,Furniture,1314.6,279.94,3
+2025-05-25,Wireless Mouse,Accessories,140.1,57.36,5
+2025-05-27,Whiteboard,Home Office,236.18,29.85,3
+2025-05-28,Notebook Pack,Home Office,97.03,45.77,8
+2025-05-29,Mechanical Keyboard,Accessories,302.69,91.18,3
+2025-06-02,Standing Desk,Furniture,1474.39,219.6,4
+2025-06-03,Standing Desk,Furniture,1972.65,463.42,6
+2025-06-03,Bookcase,Furniture,304.87,24.18,2
+2025-06-03,27in Monitor,Electronics,329.36,36.8,1
+2025-06-03,Bookcase,Furniture,117.84,8.96,1
+2025-06-05,Notebook Pack,Home Office,35.77,17.68,3
+2025-06-05,Noise-Cancelling Headset,Electronics,781.71,153.36,5
+2025-06-05,Wireless Mouse,Accessories,126.46,45.68,5
+2025-06-05,Mechanical Keyboard,Accessories,181.04,44.96,2
+2025-06-05,Notebook Pack,Home Office,98.84,47.39,8
+2025-06-06,Mechanical Keyboard,Accessories,396.75,138.2,4
+2025-06-06,27in Monitor,Electronics,1685.24,291.96,6
+2025-06-08,Notebook Pack,Home Office,34.03,14.36,3
+2025-06-09,Laptop Stand,Accessories,75.0,22.07,2
+2025-06-10,Wireless Mouse,Accessories,28.36,11.91,1
+2025-06-11,Ergonomic Chair,Furniture,1552.89,317.86,6
+2025-06-12,Ergonomic Chair,Furniture,1537.85,353.21,6
+2025-06-12,Laptop Stand,Accessories,78.36,30.52,2
+2025-06-13,Wireless Mouse,Accessories,125.97,46.5,4
+2025-06-13,27in Monitor,Electronics,2119.22,393.28,7
+2025-06-14,Wireless Mouse,Accessories,177.84,67.6,6
+2025-06-14,27in Monitor,Electronics,846.37,130.37,3
+2025-06-16,Wireless Mouse,Accessories,141.11,50.8,6
+2025-06-17,27in Monitor,Electronics,2041.76,337.53,6
+2025-06-17,Noise-Cancelling Headset,Electronics,926.36,225.72,5
+2025-06-18,Noise-Cancelling Headset,Electronics,359.0,86.65,2
+2025-06-18,Standing Desk,Furniture,709.94,128.78,2
+2025-06-19,Notebook Pack,Home Office,35.06,16.5,3
+2025-06-20,Webcam HD,Electronics,352.98,87.7,5
+2025-06-21,Laptop Stand,Accessories,374.3,143.93,8
+2025-06-22,Wireless Mouse,Accessories,122.31,47.53,4
+2025-06-23,Notebook Pack,Home Office,56.7,21.48,5
+2025-06-23,Ergonomic Chair,Furniture,1866.13,302.96,8
+2025-06-25,Bookcase,Furniture,815.17,50.32,6
+2025-06-26,Notebook Pack,Home Office,68.61,27.92,6
+2025-06-26,Wireless Mouse,Accessories,155.34,61.36,5
+2025-06-26,Notebook Pack,Home Office,47.02,20.44,4
+2025-06-27,Wireless Mouse,Accessories,46.31,18.45,2
+2025-06-27,Notebook Pack,Home Office,51.6,23.76,4
+2025-06-28,Ergonomic Chair,Furniture,2182.8,397.6,8
+2025-06-29,Bookcase,Furniture,638.06,81.91,5
+2025-06-30,Whiteboard,Home Office,692.54,85.28,8
+2025-07-03,Ergonomic Chair,Furniture,255.14,42.28,1
+2025-07-04,Notebook Pack,Home Office,10.92,5.38,1
+2025-07-05,Standing Desk,Furniture,2401.67,575.38,6
+2025-07-06,Ergonomic Chair,Furniture,1955.74,360.69,8
+2025-07-07,27in Monitor,Electronics,1730.27,217.91,6
+2025-07-07,Ergonomic Chair,Furniture,2162.43,321.67,8
+2025-07-08,Webcam HD,Electronics,66.7,20.99,1
+2025-07-08,Notebook Pack,Home Office,45.27,23.92,4
+2025-07-08,Standing Desk,Furniture,3609.13,709.53,8
+2025-07-09,Webcam HD,Electronics,470.75,113.4,7
+2025-07-10,Noise-Cancelling Headset,Electronics,1247.0,318.84,7
+2025-07-10,Mechanical Keyboard,Accessories,175.26,50.73,2
+2025-07-12,Ergonomic Chair,Furniture,723.83,152.19,3
+2025-07-12,27in Monitor,Electronics,889.72,83.4,3
+2025-07-14,Mechanical Keyboard,Accessories,450.44,135.6,5
+2025-07-15,Notebook Pack,Home Office,58.34,26.36,5
+2025-07-15,Notebook Pack,Home Office,34.34,16.31,3
+2025-07-16,Notebook Pack,Home Office,63.9,27.94,7
+2025-07-17,Standing Desk,Furniture,820.55,205.92,2
+2025-07-19,Noise-Cancelling Headset,Electronics,831.21,116.63,5
+2025-07-20,Wireless Mouse,Accessories,91.99,33.16,3
+2025-07-20,Webcam HD,Electronics,363.57,77.77,5
+2025-07-20,27in Monitor,Electronics,1975.3,326.39,6
+2025-07-22,27in Monitor,Electronics,901.31,133.81,3
+2025-07-22,Laptop Stand,Accessories,116.53,34.41,3
+2025-07-22,Notebook Pack,Home Office,92.92,42.61,8
+2025-07-24,Desk Lamp,Home Office,37.2,,1
+2025-07-26,Whiteboard,Home Office,83.65,7.37,1
+2025-07-26,Mechanical Keyboard,Accessories,396.32,107.37,5
+2025-07-26,Desk Lamp,Home Office,211.31,61.15,6
+2025-07-27,Notebook Pack,Home Office,88.55,39.11,7
+2025-07-29,Standing Desk,Furniture,3597.64,393.92,8
+2025-07-30,Webcam HD,Electronics,308.89,56.97,5
+2025-07-31,27in Monitor,Electronics,571.05,77.83,2
+2025-07-31,Standing Desk,Furniture,3041.14,852.72,8
+2025-07-31,Notebook Pack,Home Office,10.9,5.05,1
+2025-08-01,Standing Desk,Furniture,2403.73,663.51,6
+2025-08-01,Ergonomic Chair,Furniture,935.15,187.02,4
+2025-08-02,Wireless Mouse,Accessories,158.61,63.23,5
+2025-08-04,27in Monitor,Electronics,1796.21,256.6,6
+2025-08-04,Desk Lamp,Home Office,137.23,43.72,4
+2025-08-04,Noise-Cancelling Headset,Electronics,595.47,104.11,4
+2025-08-06,Whiteboard,Home Office,396.94,35.84,5
+2025-08-06,Webcam HD,Electronics,127.83,,2
+2025-08-07,Standing Desk,Furniture,1362.23,242.74,4
+2025-08-07,Notebook Pack,Home Office,104.44,42.98,8
+2025-08-08,Bookcase,Furniture,831.58,45.83,6
+2025-08-08,Wireless Mouse,Accessories,203.86,76.04,7
+2025-08-09,Whiteboard,Home Office,439.82,67.55,6
+2025-08-09,Wireless Mouse,Accessories,76.64,30.59,3
+2025-08-11,Wireless Mouse,Accessories,59.61,23.84,2
+2025-08-12,Standing Desk,Furniture,365.36,88.36,1
+2025-08-13,Mechanical Keyboard,Accessories,527.82,158.61,6
+2025-08-14,Bookcase,Furniture,663.16,41.32,5
+2025-08-15,Bookcase,Furniture,233.23,37.61,2
+2025-08-17,Mechanical Keyboard,Accessories,716.49,223.6,8
+2025-08-17,Notebook Pack,Home Office,96.37,45.54,8
+2025-08-19,Mechanical Keyboard,Accessories,76.81,23.59,1
+2025-08-20,Bookcase,Furniture,938.34,97.9,7
+2025-08-20,Notebook Pack,Home Office,34.24,14.26,3
+2025-08-21,Desk Lamp,Home Office,112.38,39.51,3
+2025-08-22,27in Monitor,Electronics,1909.18,228.16,6
+2025-08-22,27in Monitor,Electronics,1908.26,408.14,7
+2025-08-24,Bookcase,Furniture,721.45,31.41,5
+2025-08-24,Standing Desk,Furniture,368.67,84.89,1
+2025-08-26,Notebook Pack,Home Office,71.12,35.07,7
+2025-08-27,Standing Desk,Furniture,2892.6,,7
+2025-08-27,Desk Lamp,Home Office,82.28,25.24,2
+2025-08-27,Wireless Mouse,Accessories,83.34,28.25,3
+2025-08-28,Standing Desk,Furniture,3514.22,627.42,8
+2025-08-28,Ergonomic Chair,Furniture,240.92,50.87,1
+2025-08-30,Wireless Mouse,Accessories,56.35,20.39,2
+2025-08-30,Notebook Pack,Home Office,65.57,30.93,6
+2025-08-30,Notebook Pack,Home Office,102.7,46.03,8
+2025-08-31,Notebook Pack,Home Office,23.33,9.68,2
+2025-08-31,27in Monitor,Electronics,532.67,84.13,2
+2025-09-01,Standing Desk,Furniture,3156.93,631.29,8
+2025-09-01,Webcam HD,Electronics,442.35,138.46,7
+2025-09-01,Standing Desk,Furniture,1357.36,325.56,3
+2025-09-01,Laptop Stand,Accessories,124.97,41.26,3
+2025-09-02,Ergonomic Chair,Furniture,262.05,37.87,1
+2025-09-02,Bookcase,Furniture,589.5,19.32,4
+2025-09-03,Wireless Mouse,Accessories,86.38,30.08,3
+2025-09-03,Notebook Pack,Home Office,89.91,42.0,8
+2025-09-03,Mechanical Keyboard,Accessories,349.92,123.19,4
+2025-09-03,Notebook Pack,Home Office,36.51,17.08,3
+2025-09-03,Webcam HD,Electronics,552.01,94.08,8
+2025-09-04,Webcam HD,Electronics,277.32,63.6,4
+2025-09-04,Mechanical Keyboard,Accessories,267.89,76.16,3
+2025-09-06,27in Monitor,Electronics,1463.98,216.13,6
+2025-09-06,Standing Desk,Furniture,1526.58,401.74,4
+2025-09-06,Noise-Cancelling Headset,Electronics,837.56,158.62,5
+2025-09-09,Webcam HD,Electronics,407.05,92.86,6
+2025-09-10,Wireless Mouse,Accessories,221.57,74.16,8
+2025-09-11,Mechanical Keyboard,Accessories,488.14,201.36,7
+2025-09-12,Desk Lamp,Home Office,71.69,20.72,2
+2025-09-12,Ergonomic Chair,Furniture,1157.32,178.43,5
+2025-09-13,Desk Lamp,Home Office,29.77,11.46,1
+2025-09-14,Whiteboard,Home Office,546.54,46.64,7
+2025-09-14,Noise-Cancelling Headset,Electronics,176.92,33.56,1
+2025-09-14,Noise-Cancelling Headset,Electronics,578.0,171.61,3
+2025-09-15,Noise-Cancelling Headset,Electronics,782.94,163.61,4
+2025-09-15,Webcam HD,Electronics,122.91,30.23,2
+2025-09-15,27in Monitor,Electronics,321.01,41.11,1
+2025-09-15,Ergonomic Chair,Furniture,1602.43,270.4,7
+2025-09-16,Laptop Stand,Accessories,184.12,54.57,4
+2025-09-16,Wireless Mouse,Accessories,87.15,36.86,3
+2025-09-17,Ergonomic Chair,Furniture,1067.51,201.68,4
+2025-09-17,Notebook Pack,Home Office,23.92,11.25,2
+2025-09-17,Whiteboard,Home Office,78.75,6.49,1
+2025-09-17,27in Monitor,Electronics,2615.87,412.8,8
+2025-09-19,Laptop Stand,Accessories,187.46,53.58,5
+2025-09-20,Mechanical Keyboard,Accessories,386.72,117.42,4
+2025-09-23,Ergonomic Chair,Furniture,1724.53,294.48,7
+2025-09-24,Ergonomic Chair,Furniture,785.28,110.3,3
+2025-09-24,Mechanical Keyboard,Accessories,259.2,72.96,3
+2025-09-25,27in Monitor,Electronics,597.03,42.92,2
+2025-09-29,Mechanical Keyboard,Accessories,68.95,22.4,1
+2025-10-01,Whiteboard,Home Office,294.09,44.08,4
+2025-10-01,27in Monitor,Electronics,673.5,71.37,2
+2025-10-02,Ergonomic Chair,Furniture,1647.32,236.17,6
+2025-10-02,Ergonomic Chair,Furniture,1949.0,369.8,7
+2025-10-04,Standing Desk,Furniture,2724.42,556.3,7
+2025-10-04,Wireless Mouse,Accessories,231.4,82.59,8
+2025-10-05,Desk Lamp,Home Office,329.13,107.16,8
+2025-10-06,Wireless Mouse,Accessories,145.27,52.39,5
+2025-10-06,Whiteboard,Home Office,232.67,36.52,3
+2025-10-06,Whiteboard,Home Office,390.01,35.07,5
+2025-10-08,Bookcase,Furniture,720.98,88.14,7
+2025-10-08,Laptop Stand,Accessories,46.71,17.42,1
+2025-10-09,Noise-Cancelling Headset,Electronics,549.97,72.53,3
+2025-10-09,Ergonomic Chair,Furniture,1085.92,200.84,4
+2025-10-09,Wireless Mouse,Accessories,185.73,71.38,6
+2025-10-10,Noise-Cancelling Headset,Electronics,582.04,121.7,3
+2025-10-12,Wireless Mouse,Accessories,107.66,42.2,4
+2025-10-12,Webcam HD,Electronics,56.09,11.17,1
+2025-10-13,Ergonomic Chair,Furniture,622.66,105.33,3
+2025-10-13,Whiteboard,Home Office,154.61,13.84,2
+2025-10-14,Notebook Pack,Home Office,12.96,5.48,1
+2025-10-15,27in Monitor,Electronics,320.31,52.89,1
+2025-10-16,Wireless Mouse,Accessories,81.45,27.19,3
+2025-10-17,Laptop Stand,Accessories,83.37,31.9,2
+2025-10-17,Ergonomic Chair,Furniture,730.96,109.88,3
+2025-10-18,Notebook Pack,Home Office,45.13,21.4,5
+2025-10-18,Standing Desk,Furniture,2936.04,404.61,7
+2025-10-18,Wireless Mouse,Accessories,209.31,82.95,8
+2025-10-18,Standing Desk,Furniture,2263.61,392.81,7
+2025-10-19,Ergonomic Chair,Furniture,759.39,,4
+2025-10-19,Desk Lamp,Home Office,109.17,34.83,3
+2025-10-20,Webcam HD,Electronics,491.08,127.56,8
+2025-10-20,Whiteboard,Home Office,588.71,84.39,7
+2025-10-20,Ergonomic Chair,Furniture,1396.4,273.4,7
+2025-10-21,Laptop Stand,Accessories,330.51,120.99,8
+2025-10-22,Notebook Pack,Home Office,65.74,25.48,7
+2025-10-22,Whiteboard,Home Office,504.38,69.28,6
+2025-10-22,Noise-Cancelling Headset,Electronics,908.71,186.33,7
+2025-10-23,27in Monitor,Electronics,2000.79,333.76,6
+2025-10-23,Mechanical Keyboard,Accessories,363.2,89.41,5
+2025-10-24,Mechanical Keyboard,Accessories,72.51,22.38,1
+2025-10-26,Wireless Mouse,Accessories,229.43,93.62,8
+2025-10-28,Ergonomic Chair,Furniture,1695.54,291.2,8
+2025-10-28,Notebook Pack,Home Office,49.31,22.32,4
+2025-10-28,Desk Lamp,Home Office,116.73,43.0,3
+2025-10-29,Standing Desk,Furniture,2886.51,494.55,7
+2025-10-29,Mechanical Keyboard,Accessories,448.11,104.71,5
+2025-11-02,Notebook Pack,Home Office,75.67,37.17,7
+2025-11-02,Bookcase,Furniture,687.95,42.65,5
+2025-11-02,Standing Desk,Furniture,908.6,206.65,2
+2025-11-02,Laptop Stand,Accessories,176.27,61.03,5
+2025-11-03,Laptop Stand,Accessories,44.81,14.03,1
+2025-11-04,Desk Lamp,Home Office,254.6,72.65,7
+2025-11-04,Notebook Pack,Home Office,99.84,45.24,8
+2025-11-05,27in Monitor,Electronics,798.14,76.41,3
+2025-11-05,Laptop Stand,Accessories,268.7,75.01,7
+2025-11-07,Noise-Cancelling Headset,Electronics,1467.3,351.82,8
+2025-11-08,Mechanical Keyboard,Accessories,626.35,200.46,7
+2025-11-08,27in Monitor,Electronics,795.59,49.48,3
+2025-11-08,Notebook Pack,Home Office,54.82,24.08,5
+2025-11-09,Whiteboard,Home Office,90.1,7.23,1
+2025-11-09,Laptop Stand,Accessories,195.82,79.37,6
+2025-11-10,Desk Lamp,Home Office,80.87,23.86,2
+2025-11-10,Bookcase,Furniture,970.47,82.78,8
+2025-11-11,Ergonomic Chair,Furniture,249.75,25.0,1
+2025-11-12,Notebook Pack,Home Office,72.38,33.91,7
+2025-11-12,Desk Lamp,Home Office,34.61,11.06,1
+2025-11-13,Notebook Pack,Home Office,43.96,20.03,5
+2025-11-13,Wireless Mouse,Accessories,200.44,68.29,7
+2025-11-13,Wireless Mouse,Accessories,153.62,67.97,5
+2025-11-13,27in Monitor,Electronics,990.96,135.92,3
+2025-11-15,Standing Desk,Furniture,810.42,159.6,2
+2025-11-15,Ergonomic Chair,Furniture,425.63,80.67,2
+2025-11-15,Mechanical Keyboard,Accessories,432.66,144.71,6
+2025-11-15,Notebook Pack,Home Office,9.76,4.21,1
+2025-11-16,Mechanical Keyboard,Accessories,604.66,145.17,6
+2025-11-16,Webcam HD,Electronics,70.46,17.24,1
+2025-11-18,Ergonomic Chair,Furniture,1447.25,318.83,7
+2025-11-18,27in Monitor,Electronics,1095.93,233.92,4
+2025-11-18,Notebook Pack,Home Office,43.72,19.4,4
+2025-11-19,Wireless Mouse,Accessories,193.06,63.64,7
+2025-11-19,Bookcase,Furniture,428.28,12.7,3
+2025-11-20,Notebook Pack,Home Office,51.04,20.88,4
+2025-11-21,Notebook Pack,Home Office,38.81,15.07,4
+2025-11-22,Notebook Pack,Home Office,77.4,29.77,7
+2025-11-22,27in Monitor,Electronics,1928.7,363.72,7
+2025-11-22,Laptop Stand,Accessories,294.45,105.83,7
+2025-11-23,Noise-Cancelling Headset,Electronics,756.88,92.01,4
+2025-11-23,27in Monitor,Electronics,320.45,38.68,1
+2025-11-23,27in Monitor,Electronics,1702.41,339.51,6
+2025-11-24,Wireless Mouse,Accessories,111.05,46.1,4
+2025-11-24,Bookcase,Furniture,737.45,59.31,5
+2025-11-26,Ergonomic Chair,Furniture,1998.44,392.01,8
+2025-11-26,Wireless Mouse,Accessories,152.24,56.99,7
+2025-11-26,Laptop Stand,Accessories,240.56,86.27,5
+2025-11-26,Wireless Mouse,Accessories,138.98,54.35,5
+2025-11-27,Whiteboard,Home Office,82.89,17.86,1
+2025-11-27,Noise-Cancelling Headset,Electronics,1371.57,329.65,8
+2025-11-27,Wireless Mouse,Accessories,27.38,9.83,1
+2025-11-29,Notebook Pack,Home Office,43.55,19.86,5
+2025-11-29,Wireless Mouse,Accessories,65.44,23.58,2
+2025-11-30,Bookcase,Furniture,258.73,13.84,2
+2025-12-01,Ergonomic Chair,Furniture,747.45,151.38,3
+2025-12-01,Webcam HD,Electronics,228.04,81.67,3
+2025-12-01,Wireless Mouse,Accessories,130.22,51.81,5
+2025-12-01,27in Monitor,Electronics,1845.17,337.77,8
+2025-12-01,Notebook Pack,Home Office,24.11,10.48,2
+2025-12-02,Notebook Pack,Home Office,96.67,41.54,8
+2025-12-02,Wireless Mouse,Accessories,218.71,86.57,8
+2025-12-04,Mechanical Keyboard,Accessories,359.48,100.46,5
+2025-12-06,Notebook Pack,Home Office,55.47,23.07,6
+2025-12-06,Noise-Cancelling Headset,Electronics,558.51,110.75,3
+2025-12-07,Noise-Cancelling Headset,Electronics,836.62,176.46,6
+2025-12-09,Wireless Mouse,Accessories,159.36,60.81,5
+2025-12-09,Bookcase,Furniture,504.97,30.47,4
+2025-12-09,Webcam HD,Electronics,500.64,91.16,7
+2025-12-10,Mechanical Keyboard,Accessories,543.71,133.84,6
+2025-12-10,Laptop Stand,Accessories,326.25,117.4,8
+2025-12-11,Noise-Cancelling Headset,Electronics,1172.74,164.15,8
+2025-12-12,Wireless Mouse,Accessories,65.37,25.55,2
+2025-12-12,Desk Lamp,Home Office,38.09,12.09,1
+2025-12-12,Ergonomic Chair,Furniture,1534.5,331.07,6
+2025-12-12,Ergonomic Chair,Furniture,857.64,166.61,3
+2025-12-12,Ergonomic Chair,Furniture,813.9,178.04,3
+2025-12-13,Mechanical Keyboard,Accessories,534.54,167.8,6
+2025-12-13,Laptop Stand,Accessories,130.2,53.15,4
+2025-12-14,Standing Desk,Furniture,453.14,106.31,1
+2025-12-14,Noise-Cancelling Headset,Electronics,537.52,78.22,3
+2025-12-16,Noise-Cancelling Headset,Electronics,309.58,49.99,2
+2025-12-16,Wireless Mouse,Accessories,211.63,71.85,8
+2025-12-17,Bookcase,Furniture,130.93,9.94,1
+2025-12-17,27in Monitor,Electronics,677.82,103.99,2
+2025-12-18,Mechanical Keyboard,Accessories,468.97,127.01,6
+2025-12-21,Desk Lamp,Home Office,104.96,33.42,3
+2025-12-22,Ergonomic Chair,Furniture,511.09,87.17,2
+2025-12-22,Whiteboard,Home Office,277.02,22.81,3
+2025-12-22,Wireless Mouse,Accessories,227.81,78.39,8
+2025-12-22,Standing Desk,Furniture,2967.06,656.45,7
+2025-12-23,Laptop Stand,Accessories,86.8,31.56,2
+2025-12-23,Wireless Mouse,Accessories,220.76,95.1,7
+2025-12-24,27in Monitor,Electronics,1964.49,248.16,7
+2025-12-24,Wireless Mouse,Accessories,56.64,17.9,2
+2025-12-24,Notebook Pack,Home Office,66.27,28.89,6
+2025-12-24,Webcam HD,Electronics,453.8,105.0,7
+2025-12-25,Laptop Stand,Accessories,292.95,76.52,7
+2025-12-25,Bookcase,Furniture,543.35,36.13,4
+2025-12-26,Webcam HD,,293.76,90.14,4
+2025-12-27,Noise-Cancelling Headset,Electronics,937.61,231.37,5
+2025-12-28,Standing Desk,Furniture,1774.82,308.81,4
+2025-12-28,Notebook Pack,Home Office,35.0,16.59,3
+2025-12-28,Webcam HD,Electronics,204.32,48.48,3
+2025-12-29,Desk Lamp,Home Office,32.68,10.85,1
+2025-12-29,Whiteboard,Home Office,394.17,60.01,5
+2025-12-30,Webcam HD,,208.29,54.42,3
+2025-12-30,Ergonomic Chair,Furniture,1486.93,354.59,6
+2025-12-31,Wireless Mouse,Accessories,193.11,59.01,6
+2025-12-31,Whiteboard,Home Office,285.89,19.68,4
+2025-10-28,Ergonomic Chair,Furniture,1695.54,291.2,8
+2024-05-17,Bookcase,Furniture,1059.32,132.74,8
+2025-09-16,Laptop Stand,Accessories,184.12,54.57,4
+2024-04-06,Webcam HD,Electronics,142.58,36.22,2

@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DataPilot AI</title><link rel="icon" href="data:,">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("dp-theme")||"light"}catch(e){}</script>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="brand"><span class="mark" aria-hidden="true"></span>DataPilot AI</div>
+    <nav id="nav" aria-label="Main"></nav>
+    <div class="side-foot"><button class="btn small js-theme" type="button">Switch to dark mode</button><p>Files are processed by this app on your computer.</p></div>
+  </aside>
+  <main>
+    <div class="mbrand"><span class="mark" aria-hidden="true"></span>DataPilot AI</div>
+
+    <section id="v-overview" class="view">
+      <header class="page-head"><h1>Understand your data.</h1><p class="lead">Explore your numbers, identify patterns, and make more informed decisions.</p></header>
+      <div class="toolbar">
+        <div class="ds"><span class="muted small">Current dataset</span><strong id="dsName">None loaded</strong></div>
+        <div class="actions"><button class="btn primary" id="btnUpload" type="button">Upload dataset</button><button class="btn" id="btnSample" type="button">Try sample dataset</button></div>
+        <div id="status" class="status" role="status" data-kind="idle">No dataset loaded</div>
+      </div>
+      <input type="file" id="file" accept=".csv,.xlsx,.xls" hidden>
+      <div id="drop" class="drop" tabindex="0" role="button" aria-label="Upload a file">Drop a CSV or Excel file here, or <u>browse</u><span class="muted small">CSV, XLSX or XLS, up to 16 MB. Processed locally; not stored.</span></div>
+      <div id="ov-empty" class="card empty"><h2>Turn raw data into better decisions.</h2><p>No dataset is loaded, so there is nothing to analyse yet. Upload a file with columns like date, product, category, sales and profit, or load the sample dataset to see how the analysis works.</p></div>
+      <div id="ov-body" hidden>
+        <div id="detect"></div>
+        <div id="kpis" class="kpis"></div>
+        <div id="qstrip" class="qstrip"></div>
+        <div id="charts" class="charts"></div>
+      </div>
+    </section>
+
+    <section id="v-explorer" class="view">
+      <header class="page-head"><h1>Data Explorer</h1><p class="lead" id="ex-dims">Inspect the structure and contents of your dataset.</p></header>
+      <div id="ex-empty" class="card empty"><p>Load a dataset on the Overview page to explore it here.</p></div>
+      <div id="ex-body" hidden>
+        <div class="grid2">
+          <article class="card"><h3>Columns and missing values</h3><div class="tw"><table id="colTable"></table></div></article>
+          <article class="card"><h3>Numerical summary</h3><div class="tw"><table id="sumTable"></table></div></article>
+        </div>
+        <article class="card"><div class="row-between"><h3>Records</h3><input id="search" type="search" placeholder="Search all columns" aria-label="Search rows"></div><div id="rowsBox"></div></article>
+      </div>
+    </section>
+
+    <section id="v-insights" class="view">
+      <header class="page-head"><h1>Insights</h1><p class="lead">Every figure below is calculated from the active dataset, and each shows how.</p></header>
+      <div id="in-empty" class="card empty"><p>Load a dataset on the Overview page to see insights.</p></div>
+      <div id="in-body" hidden>
+        <article class="card"><h3>Data quality</h3><p class="muted small">Checks on the data itself. Nothing has been changed or removed.</p><ul id="qlist" class="list"></ul></article>
+        <article class="card"><h3>Observations</h3><ul id="ilist" class="list"></ul></article>
+        <article class="card"><h3>Not available for this dataset</h3><ul id="ulist" class="list"></ul></article>
+      </div>
+    </section>
+
+  
+<section id="v-ask" class="view">
+  <header class="page-head">
+    <h1>Ask DataPilot</h1>
+    <p class="lead">
+      Explore your data through a conversational, Alexa+-inspired
+      assistant simulation. Answers are calculated from your
+      active dataset; this is not an actual Alexa+ connection.
+    </p>
+  </header>
+
+  <article class="card">
+    <div class="row-between">
+      <div>
+        <h3>DataPilot Assistant</h3>
+        <p class="muted small">
+          Your data analyst, ready to help.
+        </p>
+      </div>
+      <span class="status" id="assistantStatus" role="status">
+        Ready
+      </span>
+    </div>
+
+    <div class="askbar">
+      <button class="btn" id="voiceBtn" type="button">
+        Try voice
+      </button>
+
+      <label class="muted small">
+        <input type="checkbox" id="speakToggle">
+        Speak answers
+      </label>
+    </div>
+
+    <p id="voiceStatus" class="muted small" role="status">
+      Type a question or try voice input if your browser supports it.
+    </p>
+  </article>
+
+  <div class="chips" id="chips"></div>
+
+  <article class="card">
+    <div id="chat" class="chat" aria-live="polite" aria-relevant="additions">
+      <p class="muted">
+        Hello! Load a dataset and ask me about revenue, profit,
+        products, categories, or data quality.
+      </p>
+    </div>
+
+    <div class="askbar">
+      <input
+        id="q"
+        type="text"
+        maxlength="500"
+        placeholder="Ask something about your dataset..."
+        aria-label="Question"
+      >
+      <button class="btn primary" id="askBtn" type="button">
+        Ask
+      </button>
+    </div>
+  </article>
+</section>
+
+
+    <section id="v-settings" class="view">
+      <header class="page-head"><h1>Settings</h1><p class="lead">Appearance, column mapping and privacy.</p></header>
+      <article class="card"><h3>Appearance</h3><button class="btn js-theme" type="button">Switch to dark mode</button></article>
+      <article class="card"><h3>Column mapping</h3><p class="muted small">DataPilot matches columns by name and checks that the values fit. If it picked wrongly or found nothing, choose columns here.</p><div id="mapBox"><p class="muted">Load a dataset first.</p></div></article>
+      <article class="card"><h3>Privacy</h3><p>This app runs on your computer. Uploaded files are read into memory, analysed with pandas and never written to disk or sent to any other service. The loaded dataset is discarded when you stop the app. This is a local tool and has not been security-audited for public hosting.</p></article>
+    </section>
+  </main>
+</div>
+<script src="/static/vendor/chart.umd.js"></script>
+<script src="/static/script.js"></script>
+</body>
+</html>
